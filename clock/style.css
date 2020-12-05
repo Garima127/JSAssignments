@@ -1,0 +1,17 @@
+body{
+    height: 1000px;
+    text-align: center;
+    top: 30%;
+    background: linear-gradient(to bottom, #9966ff 0%, #ff99cc 100%)
+  }
+#clock{
+      position: absolute;
+      text-align: center;
+      top: 30%;
+      left: 40%;
+      color: #9b1b30;
+      font-size: 80px;
+      border: 1px solid #ccc;
+      padding: 0px 5px 0px 5px;
+      
+  }

@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+    position: absolute;
+    top: 50px;
+    left: 100px;
+    text-align: center;
+    font-size: large;
+}
+
+button{
+    position: absolute;
+
+    border-radius: 30px;
+}
+div#disp{
+    background-color: rgb(30, 91, 182);
+    text-align: center;
+    margin: 100px 350px;
+    padding: 20px;
+    font-size: larger;
+}

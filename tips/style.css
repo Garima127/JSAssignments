@@ -1,0 +1,23 @@
+body{
+    font-size: 20px;
+    background-color: rgb(53, 54, 54);
+    text-align: center;
+}
+div#Calculator{
+    background-color: rgb(122, 97, 97);
+    text-align: center;
+    margin: 100px 450px;
+    padding: 20px;
+}
+h1{
+    margin-bottom: 30px;
+    font-style: italic;
+}
+button{
+    padding: 10px 20px;
+    font-size: 15px;
+    background-color: rgb(191, 243, 245);
+    font-weight: bold;    
+    border: 0;
+    border-radius: 5px;
+}
